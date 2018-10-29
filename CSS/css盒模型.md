@@ -15,7 +15,9 @@
 - 设置width/height只能设置内容宽高
 - 相邻块级元素垂直margin会合并，取大者
 
-
+#### flexbox
+- 弹性容器 设置display属性为flex
+- 弹性子元素
 
 
 
