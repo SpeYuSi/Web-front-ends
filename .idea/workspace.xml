@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="aa7bb40c-058e-4766-806c-e94e53546717" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vue/内置组件.md" beforeDir="false" afterPath="$PROJECT_DIR$/Vue/内置组件.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,37 +16,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Html5_Reader/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9669">
-              <caret line="302" column="23" selection-start-line="302" selection-start-column="23" selection-end-line="302" selection-end-column="23" />
-              <folding>
-                <element signature="e#312#377#0" />
-                <element signature="n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="基础.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ECMAscript/基础.md">
+      <file leaf-file-name="start.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/React/基础/start.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="198">
-                <caret line="6" selection-start-line="6" selection-end-line="6" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BOM.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js&amp;BOM&amp;DOM/BOM.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="66">
-                <caret line="114" selection-start-line="114" selection-end-line="114" />
+              <first_editor relative-caret-position="33">
+                <caret line="1" column="1" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
               </first_editor>
               <second_editor />
             </state>
@@ -107,6 +81,7 @@
         <option value="$PROJECT_DIR$/ES6/解构赋值.md" />
         <option value="$PROJECT_DIR$/face.md" />
         <option value="$PROJECT_DIR$/Html5_Reader/index.html" />
+        <option value="$PROJECT_DIR$/React/基础/start.md" />
       </list>
     </option>
   </component>
@@ -122,12 +97,17 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/React/基础/reactstart/node_modules" />
+  </component>
   <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/React/基础/reactstart/package.json" />
+    </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="343" />
-    <option name="y" value="128" />
+    <option name="x" value="399" />
+    <option name="y" value="123" />
     <option name="width" value="1398" />
     <option name="height" value="918" />
   </component>
@@ -139,6 +119,36 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Web-front-ends" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web-front-ends" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Web-front-ends" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web-front-ends" type="462c0819:PsiDirectoryNode" />
+              <item name="React" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Web-front-ends" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web-front-ends" type="462c0819:PsiDirectoryNode" />
+              <item name="React" type="462c0819:PsiDirectoryNode" />
+              <item name="基础" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Web-front-ends" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web-front-ends" type="462c0819:PsiDirectoryNode" />
+              <item name="React" type="462c0819:PsiDirectoryNode" />
+              <item name="基础" type="462c0819:PsiDirectoryNode" />
+              <item name="reactstart" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
@@ -236,24 +246,24 @@
       <workItem from="1542179626280" duration="8000" />
       <workItem from="1543029999129" duration="129000" />
       <workItem from="1543555194250" duration="58000" />
+      <workItem from="1545202499207" duration="2502000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96272000" />
+    <option name="totallyTimeSpent" value="98774000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="343" y="128" width="1398" height="918" extended-state="0" />
-    <editor active="true" />
+    <frame x="399" y="123" width="1398" height="918" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.14705883" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14705883" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3286517" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.24109264" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.28370786" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.28369704" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" id="Palette" order="3" />
@@ -279,15 +289,15 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.24109264" />
       <window_info anchor="right" id="Theme Preview" order="4" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17809439" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.24109264" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -324,16 +334,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CSS/浮动.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="190">
-            <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CSS/定位.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -648,21 +648,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Html5_Reader/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9669">
-          <caret line="302" column="23" selection-start-line="302" selection-start-column="23" selection-end-line="302" selection-end-column="23" />
-          <folding>
-            <element signature="e#312#377#0" />
-            <element signature="n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ECMAscript/基础.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="198">
+          <first_editor relative-caret-position="33">
             <caret line="6" selection-start-line="6" selection-end-line="6" />
           </first_editor>
           <second_editor />
@@ -670,15 +659,32 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js&amp;BOM&amp;DOM/BOM.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="66">
+            <caret line="114" selection-start-line="114" selection-end-line="114" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="33">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Html5_Reader/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="302" column="23" selection-start-line="302" selection-start-column="23" selection-end-line="302" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React/基础/start.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="66">
-            <caret line="114" selection-start-line="114" selection-end-line="114" />
+          <first_editor relative-caret-position="33">
+            <caret line="1" column="1" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
           </first_editor>
           <second_editor />
         </state>
